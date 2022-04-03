@@ -11,7 +11,7 @@
 
 
 # 1st Deliverable
-
+For the first deliverable i copied the code from a website by searching the internet for the entities such as the shapes and the particles. Then i changed the properties (position, radus and height) and picked colors for the objects according to my taste.
 
 # 2nd Deliverable
 
