@@ -14,7 +14,7 @@
 For the first deliverable i copied the code from a website by searching the internet for the entities such as the shapes and the particles. Then i changed the properties (position, radius and height) and picked colors for the objects according to my taste.
 
 # 2nd Deliverable
-
+For the deliverable I created a pattern with my dpsd and then the Oxygen and the hydrogen. Next I created three blender animations for the molecules and I copy paste the code.
 
 # 3rd Deliverable 
 
